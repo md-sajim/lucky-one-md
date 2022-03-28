@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "Name": "Honde-XR-111111",
+    "img": "/src/componant/Image/motorbike-1.png",
+    "price": "150000"
+  },
+  {
+    "id": 2,
+    "Name": "Honde-XR-222222",
+    "img": "/src/componant/Image/bike2.png",
+    "price": "24300"
+  },
+  {
+    "id": 3,
+    "Name": "Honde-XR-333333",
+    "img": "/src/componant/Image/bike3.png",
+    "price": "104500"
+  },
+  {
+    "id": 4,
+    "Name": "Honde-XR-444444",
+    "img": "/src/componant/Image/bike4.png",
+    "price": "240000"
+  },
+  {
+    "id": 5,
+    "Name": "Honde-XR-555555",
+    "img": "/src/componant/Image/bike5.png",
+    "price": "300000"
+  },
+  {
+    "id": 6,
+    "Name": "Honde-XR-666666",
+    "img": "/src/componant/Image/bike6.png",
+    "price": "500000"
+  },
+  {
+    "id": 7,
+    "Name": "Honde-XR-777777",
+    "img": "/src/componant/Image/bike7.png",
+    "price": "60000"
+  },
+  {
+    "id": 8,
+    "Name": "Honde-XR-888888",
+    "img": "/src/componant/Image/bike8.png",
+    "price": "70000"
+  },
+  {
+    "id": 9,
+    "Name": "Honde-XR-999999",
+    "img": "/src/componant/Image/bike9.png",
+    "price": "800000"
+  },
+  {
+    "id": 10,
+    "Name": "Honde-XR-101010",
+    "img": "/src/componant/Image/bike10.png",
+    "price": "350000"
+  },
+  {
+    "id": 11,
+    "Name": "Honde-XR-111111-110110",
+    "img": "/src/componant/Image/bike11.png",
+    "price": "230000"
+  }
+]
