@@ -10,8 +10,7 @@ const Products = () => {
       .then((data) => setBikes(data));
   }, []);
   return (
-    <div>
-      <h1>Name:Sajim-2</h1>
+    <div className="row">
       {bikes.map((bike) => (
         <Card key={bike.id} bike={bike}></Card>
       ))}

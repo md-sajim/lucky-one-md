@@ -2,67 +2,67 @@
   {
     "id": 1,
     "Name": "Honde-XR-111111",
-    "img": "/src/componant/Image/motorbike-1.png",
+    "img": "https://freepngimg.com/thumb/bike/23003-6-motorbike-image-thumb.png",
     "price": "150000"
   },
   {
     "id": 2,
     "Name": "Honde-XR-222222",
-    "img": "/src/componant/Image/bike2.png",
+    "img": "https://freepngimg.com/thumb/bike/23054-6-motorbike-hd-thumb.png",
     "price": "24300"
   },
   {
     "id": 3,
     "Name": "Honde-XR-333333",
-    "img": "/src/componant/Image/bike3.png",
+    "img": "https://freepngimg.com/thumb/bike/23104-9-hero-bike-transparent-background-thumb.png",
     "price": "104500"
   },
   {
     "id": 4,
     "Name": "Honde-XR-444444",
-    "img": "/src/componant/Image/bike4.png",
+    "img": "https://freepngimg.com/thumb/bike/23462-4-biker-transparent-background-thumb.png",
     "price": "240000"
   },
   {
     "id": 5,
     "Name": "Honde-XR-555555",
-    "img": "/src/componant/Image/bike5.png",
+    "img": "https://freepngimg.com/thumb/bike/23447-8-hero-bike-photos-thumb.png",
     "price": "300000"
   },
   {
     "id": 6,
     "Name": "Honde-XR-666666",
-    "img": "/src/componant/Image/bike6.png",
+    "img": "https://freepngimg.com/thumb/bike/23148-8-hero-bike-image-thumb.png",
     "price": "500000"
   },
   {
     "id": 7,
     "Name": "Honde-XR-777777",
-    "img": "/src/componant/Image/bike7.png",
+    "img": "https://freepngimg.com/thumb/bike/23015-6-motorbike-photos-thumb.png",
     "price": "60000"
   },
   {
     "id": 8,
     "Name": "Honde-XR-888888",
-    "img": "/src/componant/Image/bike8.png",
+    "img": "https://freepngimg.com/thumb/bike/23276-1-motorbike-transparent-thumb.png",
     "price": "70000"
   },
   {
     "id": 9,
     "Name": "Honde-XR-999999",
-    "img": "/src/componant/Image/bike9.png",
+    "img": "https://freepngimg.com/thumb/bike/23143-8-hero-bike-transparent-thumb.png",
     "price": "800000"
   },
   {
     "id": 10,
     "Name": "Honde-XR-101010",
-    "img": "/src/componant/Image/bike10.png",
+    "img": "https://freepngimg.com/thumb/bike/23302-6-racing-motorbike-photos-thumb.png",
     "price": "350000"
   },
   {
     "id": 11,
-    "Name": "Honde-XR-111111-110110",
-    "img": "/src/componant/Image/bike11.png",
+    "Name": "Honde-XR-110110",
+    "img": "https://freepngimg.com/thumb/bike/23388-3-hero-bike-clipart-thumb.png",
     "price": "230000"
   }
 ]
