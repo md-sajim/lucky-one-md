@@ -1,7 +1,8 @@
 import React from "react";
 import "./Chooseproduct.css";
 
-const Chooseproduct = () => {
+const Chooseproduct = ({ item }) => {
+  console.log(item);
   return (
     <div className="chooseproducts">
       <div>
