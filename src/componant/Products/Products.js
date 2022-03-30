@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Card from "../card/Card";
-// import Chooseproduct from "../Chooseproduct/Chooseproduct";
+import Chooseproduct from "../Chooseproduct/Chooseproduct";
 import "./Products.css";
 
 const Products = () => {
@@ -16,6 +16,7 @@ const Products = () => {
       .then((res) => res.json())
       .then((data) => setBikes(data));
   }, []);
+
   return (
     <div className="row">
       <div className="col-sm-12 col-lg-4">
@@ -25,7 +26,7 @@ const Products = () => {
           </div>
           <div>
             {bike.map((item) => (
-              <p key={item.id}>{item.Name}</p>
+              <Chooseproduct key={item.id} item={item}></Chooseproduct>
             ))}
           </div>
           <div className="buttonstyle">
@@ -34,8 +35,6 @@ const Products = () => {
             <button className="but2">CHOOSE AGAIN</button>
           </div>
         </div>
-
-        {/* <Chooseproduct></Chooseproduct> */}
       </div>
       <div className="row col-sm-12 col-lg-8 pro4ductstyle">
         {bikes.map((bike) => (

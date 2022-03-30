@@ -1,19 +1,16 @@
 import React from "react";
 import "./Chooseproduct.css";
+import { AiTwotoneDelete } from "react-icons/ai";
 
 const Chooseproduct = ({ item }) => {
-  console.log(item);
+  const { Name, img } = item;
   return (
-    <div className="chooseproducts">
-      <div>
-        <p>Selected Bike</p>
-      </div>
-      <div></div>
-      <div className="buttonstyle">
-        <button className="but">CHOOSE BIKE</button>
-        <br></br>
-        <button className="but2">CHOOSE AGAIN</button>
-      </div>
+    <div className="img-div-style">
+      <img className="img-style" src={img} alt="..." />
+      <p>{Name}</p>
+      <p className="delet">
+        <AiTwotoneDelete className="delet-style" />
+      </p>
     </div>
   );
 };
