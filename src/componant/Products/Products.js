@@ -30,9 +30,9 @@ const Products = () => {
             ))}
           </div>
           <div className="buttonstyle">
-            <button className="but">CHOOSE BIKE</button>
+            <button className="but but3">CHOOSE BIKE</button>
             <br></br>
-            <button className="but2">CHOOSE AGAIN</button>
+            <button className="but2 but3">CHOOSE AGAIN</button>
           </div>
         </div>
       </div>

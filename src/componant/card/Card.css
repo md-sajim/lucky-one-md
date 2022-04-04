@@ -6,3 +6,7 @@
   background-color: plum;
   color: whitesmoke;
 }
+.btncolor:hover {
+  background-color: pink;
+  color: blueviolet;
+}

@@ -15,7 +15,12 @@
   width: 150px;
   border-radius: 10px;
 }
+
 .but2 {
   width: 150px;
   border-radius: 10px;
+}
+.but3:hover {
+  background-color: rgba(26, 229, 41, 0.28);
+  color: white;
 }
